@@ -57,7 +57,8 @@ Java IDE (NetBeans, Eclipse, or IntelliJ IDEA)
 <img width="744" height="448" alt="image" src="https://github.com/user-attachments/assets/927e1969-393d-4fcd-a365-b83a19e80f46" />
 <img width="443" height="378" alt="image" src="https://github.com/user-attachments/assets/b4b08a5d-d48c-4424-8a5c-2116f6b8a970" />
 <img width="436" height="233" alt="image" src="https://github.com/user-attachments/assets/ff1439c5-8b46-4512-8dc3-382b968f8be2" />
-<img width="597" height="238" alt="image" src="https://github.com/user-attachments/assets/2ae8bcf9-b864-45dc-bf23-1e59ed3eee08" />
+<img width="681" height="363" alt="image" src="https://github.com/user-attachments/assets/22333dfc-6868-446f-a809-01a6037828bb" />
+
 <img width="597" height="238" alt="image" src="https://github.com/user-attachments/assets/fbf48f18-66d3-4016-9e32-170e358ca9f2" />
 
 
