@@ -52,6 +52,8 @@ Java IDE (NetBeans, Eclipse, or IntelliJ IDEA)
 4. Build and run the project.
 
 # Screenshots
+<img width="830" height="443" alt="image" src="https://github.com/user-attachments/assets/81ca6b13-2569-46a6-8924-ccf635f21ae5" />
+
 
 Example:
 Login Screen
